@@ -127,7 +127,7 @@ h5, .h05, h6, .h06 {
 	line-height: 1.355;
 	letter-spacing: -.1rem;
 	position: absolute;
-	top: 245px;
+	top: 325px;
 	left: 300px;
 	padding-right: 20px;
 }
@@ -1388,7 +1388,7 @@ header .logo a {
 	text-shadow: 0 0 6px rgba(0, 0, 0, 0.2);
 	position: absolute;
 	bottom: 420PX;
-	right: 830Px;
+	right: 80Px;
 }
 .intro-content .intro-position span {
 	display: inline-block;
