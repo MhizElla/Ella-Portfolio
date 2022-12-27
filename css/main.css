@@ -1388,7 +1388,7 @@ header .logo a {
 	text-shadow: 0 0 6px rgba(0, 0, 0, 0.2);
 	position: absolute;
 	bottom: 420PX;
-	right: 80Px;
+	right: 950Px;
 }
 .intro-content .intro-position span {
 	display: inline-block;
@@ -1419,7 +1419,7 @@ header .logo a {
 	letter-spacing: .25rem;
 	position: absolute;
 	bottom: 340px;
-	right: 960px;
+	right: 108rem
 }
 .intro-content .button:hover, .intro-content .button:focus {
 	border-color: #cc005f;
