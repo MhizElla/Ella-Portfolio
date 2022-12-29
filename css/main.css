@@ -117,20 +117,18 @@ h5, .h05, h6, .h06 {
 }
 .home-img{
 	
-	height: 80rem;
-	width: 40rem;
-	float: right;
+	/* height: 80rem;
+	width: 40rem; */
+	position: absolute;
+	/* display: block; */
+	/* text-align: right;
+	float: right; */
+	right: 20em;
+	top: 0;
 }
 
-.ella-h1{
-	font-size: 3.1rem;
-	line-height: 1.355;
-	letter-spacing: -.1rem;
-	position: absolute;
-	top: 325px;
-	left: 300px;
-	padding-right: 20px;
-}
+
+
 h1, .h01 {
 	font-size: 3.1rem;
 	line-height: 1.355;
@@ -157,15 +155,6 @@ h4, .h04 {
 	line-height: 1.765;
 }
 
-.ella-h5{
-	font-size: 1.4rem;
-	line-height: 1.714;
-	text-transform: uppercase;
-	letter-spacing: .15rem;
-	position: absolute;
-	bottom: 560px;
-	left: 500px;
-}
 h5, .h05 {
 	font-size: 1.4rem;
 	line-height: 1.714;
@@ -1351,7 +1340,7 @@ header .logo a {
 .intro-content {
 	display: table-cell;
 	vertical-align: middle;
-	text-align: center;
+	text-align: left;
 	-webkit-transform: translateY(-2.1rem);
 	-ms-transform: translateY(-2.1rem);
 	transform: translateY(-2.1rem);
@@ -1364,7 +1353,7 @@ header .logo a {
 	max-width: 900px;
 	margin-top: 0;
 	margin-bottom: .6rem;
-	margin-left: auto;
+	margin-left: 0rem;
 	margin-right: auto;
 	text-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
 }
@@ -1386,9 +1375,6 @@ header .logo a {
 	letter-spacing: .2rem;
 	color: #FFFFFF;
 	text-shadow: 0 0 6px rgba(0, 0, 0, 0.2);
-	position: absolute;
-	bottom: 420PX;
-	right: 950Px;
 }
 .intro-content .intro-position span {
 	display: inline-block;
@@ -1417,9 +1403,6 @@ header .logo a {
 	font-size: 1.3rem;
 	text-transform: uppercase;
 	letter-spacing: .25rem;
-	position: absolute;
-	bottom: 340px;
-	right: 108rem
 }
 .intro-content .button:hover, .intro-content .button:focus {
 	border-color: #cc005f;
@@ -1439,7 +1422,7 @@ header .logo a {
 	display: block;
 	position: absolute;
 	width: 100%;
-	right: 24.2rem;
+	right: 2.2rem;
 	bottom: 18.2rem;
 	font-size: 3.3rem;
 	margin: 0;
