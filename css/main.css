@@ -122,14 +122,11 @@ h5, .h05, h6, .h06 {
 } */
 .home-img{
 	
-	/* height: 80rem;
-	width: 40rem; */
+	
 	position: absolute;
-	/* display: block; */
-	/* text-align: right;
-	float: right; */
-	right: 18em;
+	right: 10em;
 	top: 0;
+	z-index: -1;
 }
 
 
