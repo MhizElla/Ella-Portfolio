@@ -115,6 +115,12 @@ h5, .h05, h6, .h06 {
 	margin-bottom: 1.2rem;
 	
 }
+.hello{
+	position: absolute;
+	
+	left: 20em;
+	top: 15em;
+}
 .home-img{
 	
 	/* height: 80rem;
