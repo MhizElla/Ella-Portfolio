@@ -158,10 +158,7 @@ h1, .h01 {
 		transform: translateY(-2.1rem);
 	}
 
-	#about .section-intro {
-		margin-bottom: 3rem;
-		position: relative;
-	}
+	
 }
 h2, .h02 {
 	font-size: 2.4rem;
@@ -1098,6 +1095,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 @media only screen and (max-width:768px) {
 	.section-intro {
 		max-width: 650px;
+		position: relative;
 	}
 	.section-intro h1 {
 		font-size: 3rem;
