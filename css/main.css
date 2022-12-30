@@ -1095,7 +1095,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 @media only screen and (max-width:768px) {
 	.section-intro {
 		max-width: 650px;
-		z-index: 1;
+		z-index: -1;
 	}
 	.section-intro h1 {
 		font-size: 3rem;
